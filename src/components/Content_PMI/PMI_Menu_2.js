@@ -64,7 +64,7 @@ const Faskes_Konten_2=()=>{
                     <div class='pets-weight'>
                         <label for='pet-weight-0-25'>Alamat</label>
                         <div class='radio-container'>
-                            <input  id='pet-weight-0-25' name='pet-weight' type='text'  placeholder='Alamat'/>
+                            <input className="alamat"  type='text'  placeholder='Alamat'/>
                             
                         </div>
                     </div>

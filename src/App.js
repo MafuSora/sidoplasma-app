@@ -3,7 +3,7 @@ import './App.css';
 import React from 'react';
 import Login from './components/login/login';
 import Navbar from './components/navbar/navbar';
-import Menu1 from './components/PMI/PMI_Menu _1'
+import Menu1 from './components/PMI/PMI_Main_Menu'
 import { BrowserRouter as Router, Route, Redirect,Switch } from 'react-router-dom';
 
 

@@ -1,11 +1,11 @@
-import './PMI_Menu_1.css'
+import './PMI_Main_Menu.css'
 import { Button, ButtonGroup,ToggleButton } from 'react-bootstrap';
 import reactDom from 'react-dom';
 import react,{useState} from 'react';
-import Right_PMI_1 from '../Content_PMI/PMI_Menu _1';
-import Right_PMI_2 from '../Content_PMI/PMI_Menu _2';
-import Right_PMI_3 from '../Content_PMI/PMI_Menu _3';
-import Right_PMI_4 from '../Content_PMI/PMI_Menu _4';
+import Right_PMI_1 from '../Content_PMI/PMI_Menu_1';
+import Right_PMI_2 from '../Content_PMI/PMI_Menu_2';
+import Right_PMI_3 from '../Content_PMI/PMI_Menu_3';
+import Right_PMI_4 from '../Content_PMI/PMI_Menu_4';
 const PMI_Menu_1=(props)=>{
     const [checked, setChecked] = useState(false);
     const [radioValue, setRadioValue] = useState('1');
