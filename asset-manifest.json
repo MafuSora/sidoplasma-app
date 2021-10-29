@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/sidoplasma-app/static/css/main.e3090716.chunk.css",
-    "main.js": "/sidoplasma-app/static/js/main.c5f02c2b.chunk.js",
-    "main.js.map": "/sidoplasma-app/static/js/main.c5f02c2b.chunk.js.map",
+    "main.js": "/sidoplasma-app/static/js/main.2954651c.chunk.js",
+    "main.js.map": "/sidoplasma-app/static/js/main.2954651c.chunk.js.map",
     "runtime-main.js": "/sidoplasma-app/static/js/runtime-main.4afc2586.js",
     "runtime-main.js.map": "/sidoplasma-app/static/js/runtime-main.4afc2586.js.map",
     "static/css/2.0a9ec390.chunk.css": "/sidoplasma-app/static/css/2.0a9ec390.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.0a9ec390.chunk.css",
     "static/js/2.38470279.chunk.js",
     "static/css/main.e3090716.chunk.css",
-    "static/js/main.c5f02c2b.chunk.js"
+    "static/js/main.2954651c.chunk.js"
   ]
 }
