@@ -91,9 +91,10 @@
 
 .right-container {
     background: #f9c7c2;
-    /* display: flex; */
+    display: grid;
     grid-template-areas: "."".";
-    width: 1800px;
+    width: 60%;
+    padding: 4px;
     margin: 1em;
 }
 
