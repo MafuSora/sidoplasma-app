@@ -1,23 +1,26 @@
 {
   "files": {
-    "main.css": "/mafusora.github.io/SIDOPLASMA/static/css/main.5739ad41.chunk.css",
-    "main.js": "/mafusora.github.io/SIDOPLASMA/static/js/main.09718d63.chunk.js",
-    "main.js.map": "/mafusora.github.io/SIDOPLASMA/static/js/main.09718d63.chunk.js.map",
-    "runtime-main.js": "/mafusora.github.io/SIDOPLASMA/static/js/runtime-main.ebdd694c.js",
-    "runtime-main.js.map": "/mafusora.github.io/SIDOPLASMA/static/js/runtime-main.ebdd694c.js.map",
-    "static/js/2.4d97d00a.chunk.js": "/mafusora.github.io/SIDOPLASMA/static/js/2.4d97d00a.chunk.js",
-    "static/js/2.4d97d00a.chunk.js.map": "/mafusora.github.io/SIDOPLASMA/static/js/2.4d97d00a.chunk.js.map",
-    "static/js/3.1fbf054d.chunk.js": "/mafusora.github.io/SIDOPLASMA/static/js/3.1fbf054d.chunk.js",
-    "static/js/3.1fbf054d.chunk.js.map": "/mafusora.github.io/SIDOPLASMA/static/js/3.1fbf054d.chunk.js.map",
+    "main.css": "/mafusora.github.io/SIDOPLASMA/static/css/main.e3090716.chunk.css",
+    "main.js": "/mafusora.github.io/SIDOPLASMA/static/js/main.c5f02c2b.chunk.js",
+    "main.js.map": "/mafusora.github.io/SIDOPLASMA/static/js/main.c5f02c2b.chunk.js.map",
+    "runtime-main.js": "/mafusora.github.io/SIDOPLASMA/static/js/runtime-main.130bccca.js",
+    "runtime-main.js.map": "/mafusora.github.io/SIDOPLASMA/static/js/runtime-main.130bccca.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/mafusora.github.io/SIDOPLASMA/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.38470279.chunk.js": "/mafusora.github.io/SIDOPLASMA/static/js/2.38470279.chunk.js",
+    "static/js/2.38470279.chunk.js.map": "/mafusora.github.io/SIDOPLASMA/static/js/2.38470279.chunk.js.map",
+    "static/js/3.844258b5.chunk.js": "/mafusora.github.io/SIDOPLASMA/static/js/3.844258b5.chunk.js",
+    "static/js/3.844258b5.chunk.js.map": "/mafusora.github.io/SIDOPLASMA/static/js/3.844258b5.chunk.js.map",
     "index.html": "/mafusora.github.io/SIDOPLASMA/index.html",
-    "static/css/main.5739ad41.chunk.css.map": "/mafusora.github.io/SIDOPLASMA/static/css/main.5739ad41.chunk.css.map",
-    "static/js/2.4d97d00a.chunk.js.LICENSE.txt": "/mafusora.github.io/SIDOPLASMA/static/js/2.4d97d00a.chunk.js.LICENSE.txt",
+    "static/css/2.0a9ec390.chunk.css.map": "/mafusora.github.io/SIDOPLASMA/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.e3090716.chunk.css.map": "/mafusora.github.io/SIDOPLASMA/static/css/main.e3090716.chunk.css.map",
+    "static/js/2.38470279.chunk.js.LICENSE.txt": "/mafusora.github.io/SIDOPLASMA/static/js/2.38470279.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/mafusora.github.io/SIDOPLASMA/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ebdd694c.js",
-    "static/js/2.4d97d00a.chunk.js",
-    "static/css/main.5739ad41.chunk.css",
-    "static/js/main.09718d63.chunk.js"
+    "static/js/runtime-main.130bccca.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.38470279.chunk.js",
+    "static/css/main.e3090716.chunk.css",
+    "static/js/main.c5f02c2b.chunk.js"
   ]
 }
