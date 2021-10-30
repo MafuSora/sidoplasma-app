@@ -1,5 +1,5 @@
 .uwu {
-    background-color: rgb(27, 104, 177);
+    background-color: rgb(255, 208, 0);
 }
 
 .imagelogo {
@@ -8,3 +8,15 @@
     padding: auto;
     margin-left: 3rem
 }
+
+.sidoplasma {
+    width: 10%;  
+    height: 10%;
+    padding: auto;
+    margin-left: 3rem
+}
+
+.textnavbar{
+    color:black 
+} 
+/* fiz ini gabisa di recolor black :( */
