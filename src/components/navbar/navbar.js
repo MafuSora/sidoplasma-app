@@ -19,8 +19,8 @@ const Navibar = () => {
           
         <Nav className="me-auto ">
           <Nav.Link href="/" className = "textnavbar">Home</Nav.Link>
-          
-          
+          <Nav.Link href="/menu1" className = "textnavbar">GERBONG</Nav.Link>
+          <Nav.Link href="/menu2" className = "textnavbar">BERITA</Nav.Link>
           
         </Nav>
         <div className="ms-auto">
